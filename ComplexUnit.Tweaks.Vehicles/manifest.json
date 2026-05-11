@@ -1,0 +1,14 @@
+﻿{
+  "id": "ComplexUnit.Tweaks.Vehicles",
+  "version": "1.0.0",
+  "display_name": "ComplexUnit.Tweaks.Vehicles",
+  "description_short": "Allows to tweak some of the vehicles properties.",
+  "description_long": "Allows to tweak some of the vehicles properties such as capacity for trucks and excavators. Changing the capacities also scales the sorter capacity and throughput.",
+  "authors": [ "ComplexUnit" ],
+  "links": [ "https://github.com/SDXC/ComplexUnit.Tweaks.Vehicles" ],
+  "primary_dlls": [ "ComplexUnit.Tweaks.Vehicles.dll" ],
+  "non_locking_dll_load": true,
+  "can_add_to_saved_game": true,
+  "can_remove_from_saved_game": true,
+  "min_game_version": "0.8.4b"
+}

@@ -1,0 +1,24 @@
+﻿{
+  "enable_custom_truck_capacity": {
+    "default": false,
+    "description": "Enable custom truck capacities. This also scales sorter capacity and throughput."
+  },
+  "truck_capacity_multiplier": {
+    "default": 1,
+    "is_integer": true,
+    "description": "Multiplier for truck capacity.",
+    "min": 1,
+    "max": 100
+  },
+  "enable_custom_excavator_haul_capacity": {
+    "default": false,
+    "description": "Enable custom excavator hauling capacities."
+  },
+  "excavator_capacity_multiplier": {
+    "default": 1,
+    "is_integer": true,
+    "description": "Multiplier for excavators haul capacity.",
+    "min": 1,
+    "max": 100
+  }
+}
