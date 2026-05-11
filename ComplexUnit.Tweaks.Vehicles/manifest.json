@@ -1,7 +1,7 @@
 ﻿{
   "id": "ComplexUnit.Tweaks.Vehicles",
   "version": "1.0.0",
-  "display_name": "ComplexUnit.Tweaks.Vehicles",
+  "display_name": "CxU.Tweaks.Vehicles",
   "description_short": "Allows to tweak some of the vehicles properties.",
   "description_long": "Allows to tweak some of the vehicles properties such as capacity for trucks and excavators. Changing the capacities also scales the sorter capacity and throughput.",
   "authors": [ "ComplexUnit" ],
